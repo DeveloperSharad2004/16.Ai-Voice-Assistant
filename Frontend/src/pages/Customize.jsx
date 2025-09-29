@@ -1,6 +1,6 @@
 import React, { useContext, useRef, useState } from 'react'
 import { RiImageAddLine } from "react-icons/ri";
-import Card from '../components/card'
+import Card from '../components/Card.jsx'
 import image1 from '../assets/image1.png'
 import image2 from '../assets/image2.jpg'
 import image3 from '../assets/authBg.png'
